@@ -1,2 +1,2 @@
 # TestGithub
-This is a demo repository to test GraphQL API of application using Rest Assured library
+This is a demo repository to test GraphQL API of Github application using Rest Assured library
